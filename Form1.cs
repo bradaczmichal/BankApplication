@@ -18,6 +18,7 @@ namespace Projekt_Bank
         List<Account> accountList = new List<Account>();
         List <Transfer> transferList = new List<Transfer>();
         private string logPath = @"D:\log.txt";
+        string asd = "asd";
         public loginForm()
         {
             InitializeComponent();
