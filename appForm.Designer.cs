@@ -133,7 +133,7 @@
             this.labelDashboard.Location = new System.Drawing.Point(7, 12);
             this.labelDashboard.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelDashboard.Name = "labelDashboard";
-            this.labelDashboard.Size = new System.Drawing.Size(149, 32);
+            this.labelDashboard.Size = new System.Drawing.Size(148, 32);
             this.labelDashboard.TabIndex = 22;
             this.labelDashboard.Text = "Dashboard";
             this.labelDashboard.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -598,7 +598,7 @@
             this.labelNoTransactions.Location = new System.Drawing.Point(107, 164);
             this.labelNoTransactions.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelNoTransactions.Name = "labelNoTransactions";
-            this.labelNoTransactions.Size = new System.Drawing.Size(205, 32);
+            this.labelNoTransactions.Size = new System.Drawing.Size(204, 32);
             this.labelNoTransactions.TabIndex = 82;
             this.labelNoTransactions.Text = "No transactions";
             this.labelNoTransactions.Visible = false;
